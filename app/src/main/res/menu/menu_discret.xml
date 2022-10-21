@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.myapplication.MainActivity">
+    <item
+        android:id="@+id/reinitialiser"
+        android:orderInCategory="100"
+        android:title="Reinitialiser"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/numTelephone"
+        android:orderInCategory="100"
+        android:title="numTelephone"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/birthplacewiki"
+        android:orderInCategory="100"
+        android:title="birthplacewiki"
+        app:showAsAction="never" />
+</menu>
